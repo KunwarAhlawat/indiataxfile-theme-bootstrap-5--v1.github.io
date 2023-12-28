@@ -28,7 +28,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Libre+Baskerville&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @media (min-width: 1400px) {
   .container {
     max-width: 1140px !important;
@@ -4555,57 +4554,6 @@ p {
 .restaurant-css h1, .restaurant-css h2, .restaurant-css h3, .restaurant-css h4, .restaurant-css h5, .restaurant-css h6, .restaurant-css .h1, .restaurant-css .h2, .restaurant-css .h3, .restaurant-css .h4, .restaurant-css .h5, .restaurant-css .h6,
 .restaurant-css #topnav {
   font-family: "Noto Sans", sans-serif !important;
-}
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 10px;
-}
-
-body {
-  font-size: 10px;
-  font-family: "Poppins", sans-serif;
-}
-
-:root {
-  --primary-color: #2f207d;
-  --secondary-color: #00671e;
-  --accent-color: #47c341;
-  --nutral-color: #0e70a1;
-}
-
-ul,
-p {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-a {
-  font-size: 1.4rem;
-  color: white;
-  text-decoration: none;
-}
-
-h1 {
-  font-size: 72px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 80px;
-}
-
-h6 {
-  text-align: center;
-  font-size: 12px;
-  font-style: normal;
-  font-weight: 300;
-  line-height: 80px; /* 210.526% */
-  letter-spacing: -0.76px;
 }
 
 .topBar {
